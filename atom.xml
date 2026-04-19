@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>给我一碗炒粉</title>
+  
+  <subtitle>hmk的后花园</subtitle>
+  <link href="https://healer20.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://healer20.github.io/"/>
+  <updated>2026-04-19T06:57:52.062Z</updated>
+  <id>https://healer20.github.io/</id>
+  
+  <author>
+    <name>Hekang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>服务暴露traefik3.6.7</title>
+    <link href="https://healer20.github.io/2026/04/19/%E6%9C%8D%E5%8A%A1%E6%9A%B4%E9%9C%B2traefik3.6.7/"/>
+    <id>https://healer20.github.io/2026/04/19/%E6%9C%8D%E5%8A%A1%E6%9A%B4%E9%9C%B2traefik3.6.7/</id>
+    <published>2026-04-19T06:32:47.000Z</published>
+    <updated>2026-04-19T06:57:52.062Z</updated>
+    
+    
+    <summary type="html">traefik3.0使用，ingress2026年3月已停止维护</summary>
+    
+    
+    
+    
+    <category term="云原生" scheme="https://healer20.github.io/tags/%E4%BA%91%E5%8E%9F%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://healer20.github.io/2026/04/09/hello-world/"/>
+    <id>https://healer20.github.io/2026/04/09/hello-world/</id>
+    <published>2026-04-09T14:49:02.702Z</published>
+    <updated>2025-07-16T06:33:05.747Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>KVM</title>
+    <link href="https://healer20.github.io/2026/01/23/KVM/"/>
+    <id>https://healer20.github.io/2026/01/23/KVM/</id>
+    <published>2026-01-23T09:00:27.000Z</published>
+    <updated>2026-01-23T09:23:33.793Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-虚拟机软件KVM了解&quot;&gt;&lt;a href=&quot;#1-虚拟机软件KVM了解&quot; class=&quot;headerlink&quot; title=&quot;1.虚拟机软件KVM了解&quot;&gt;&lt;/a&gt;1.虚拟机软件KVM了解&lt;/h1&gt;&lt;h2 id=&quot;1-1虚拟化基础&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="虚拟化" scheme="https://healer20.github.io/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://healer20.github.io/2025/07/16/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://healer20.github.io/2025/07/16/%E6%B5%8B%E8%AF%95/</id>
+    <published>2025-07-16T07:35:50.000Z</published>
+    <updated>2025-07-18T09:10:20.344Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Git&quot;&gt;&lt;a href=&quot;#Git&quot; class=&quot;headerlink&quot; title=&quot;Git&quot;&gt;&lt;/a&gt;Git&lt;/h1&gt;&lt;p&gt;git config –global user.name “hmk”&lt;/p&gt;
+&lt;p&gt;git config –global</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
