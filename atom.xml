@@ -34,6 +34,23 @@
   </entry>
   
   <entry>
+    <title>KubeKey安装K8s集群</title>
+    <link href="https://healer20.github.io/2026/04/19/KubeKey%E5%AE%89%E8%A3%85K8s%E9%9B%86%E7%BE%A4/"/>
+    <id>https://healer20.github.io/2026/04/19/KubeKey%E5%AE%89%E8%A3%85K8s%E9%9B%86%E7%BE%A4/</id>
+    <published>2026-04-19T06:32:47.000Z</published>
+    <updated>2026-05-21T14:57:44.606Z</updated>
+    
+    
+    <summary type="html">新版kubekey安装k8s</summary>
+    
+    
+    
+    
+    <category term="K8s" scheme="https://healer20.github.io/tags/K8s/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="https://healer20.github.io/2026/04/09/hello-world/"/>
     <id>https://healer20.github.io/2026/04/09/hello-world/</id>
