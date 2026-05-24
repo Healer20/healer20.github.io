@@ -6,7 +6,7 @@
   <link href="https://healer20.github.io/atom.xml" rel="self"/>
   
   <link href="https://healer20.github.io/"/>
-  <updated>2026-05-21T15:03:02.549Z</updated>
+  <updated>2026-05-21T15:07:22.142Z</updated>
   <id>https://healer20.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>KubeKey安装K8s集群</title>
+    <link href="https://healer20.github.io/2026/05/21/KubeKey%E5%AE%89%E8%A3%85K8s%E9%9B%86%E7%BE%A4/"/>
+    <id>https://healer20.github.io/2026/05/21/KubeKey%E5%AE%89%E8%A3%85K8s%E9%9B%86%E7%BE%A4/</id>
+    <published>2026-05-21T15:07:47.000Z</published>
+    <updated>2026-05-21T15:07:22.142Z</updated>
+    
+    
+    <summary type="html">新版kubekey安装k8s</summary>
+    
+    
+    
+    
+    <category term="K8s" scheme="https://healer20.github.io/tags/K8s/"/>
+    
+  </entry>
   
   <entry>
     <title>traefik反代证书续签frp内网穿透</title>
@@ -47,23 +64,6 @@
     
     
     <category term="云原生" scheme="https://healer20.github.io/tags/%E4%BA%91%E5%8E%9F%E7%94%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>KubeKey安装K8s集群</title>
-    <link href="https://healer20.github.io/2026/04/19/KubeKey%E5%AE%89%E8%A3%85K8s%E9%9B%86%E7%BE%A4/"/>
-    <id>https://healer20.github.io/2026/04/19/KubeKey%E5%AE%89%E8%A3%85K8s%E9%9B%86%E7%BE%A4/</id>
-    <published>2026-04-19T06:32:47.000Z</published>
-    <updated>2026-05-21T14:57:44.606Z</updated>
-    
-    
-    <summary type="html">新版kubekey安装k8s</summary>
-    
-    
-    
-    
-    <category term="K8s" scheme="https://healer20.github.io/tags/K8s/"/>
     
   </entry>
   
