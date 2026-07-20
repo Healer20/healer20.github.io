@@ -6,7 +6,7 @@
   <link href="https://healer20.github.io/atom.xml" rel="self"/>
   
   <link href="https://healer20.github.io/"/>
-  <updated>2026-07-20T08:09:05.905Z</updated>
+  <updated>2026-07-20T08:48:12.855Z</updated>
   <id>https://healer20.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>easytier-tutorial</title>
+    <link href="https://healer20.github.io/2026/07/20/easytier-tutorial/"/>
+    <id>https://healer20.github.io/2026/07/20/easytier-tutorial/</id>
+    <published>2026-07-20T08:47:30.000Z</published>
+    <updated>2026-07-20T08:48:12.855Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;EasyTier-异地组网&quot;&gt;&lt;a href=&quot;#EasyTier-异地组网&quot; class=&quot;headerlink&quot; title=&quot;EasyTier 异地组网&quot;&gt;&lt;/a&gt;EasyTier</summary>
+        
+      
+    
+    
+    
+    
+    <category term="network" scheme="https://healer20.github.io/tags/network/"/>
+    
+  </entry>
   
   <entry>
     <title>magic</title>
