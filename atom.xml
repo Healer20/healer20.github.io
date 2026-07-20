@@ -6,7 +6,7 @@
   <link href="https://healer20.github.io/atom.xml" rel="self"/>
   
   <link href="https://healer20.github.io/"/>
-  <updated>2026-07-20T07:53:51.601Z</updated>
+  <updated>2026-07-20T08:09:05.905Z</updated>
   <id>https://healer20.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>magic</title>
+    <link href="https://healer20.github.io/2026/07/20/magic/"/>
+    <id>https://healer20.github.io/2026/07/20/magic/</id>
+    <published>2026-07-20T08:08:15.000Z</published>
+    <updated>2026-07-20T08:09:05.905Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Linux中安装魔法&quot;&gt;&lt;a href=&quot;#Linux中安装魔法&quot; class=&quot;headerlink&quot; title=&quot;Linux中安装魔法&quot;&gt;&lt;/a&gt;Linux中安装魔法&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="network" scheme="https://healer20.github.io/tags/network/"/>
+    
+  </entry>
   
   <entry>
     <title>Kubeasz-k8s1.35-longhorn</title>
