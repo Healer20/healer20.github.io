@@ -6,7 +6,7 @@
   <link href="https://healer20.github.io/atom.xml" rel="self"/>
   
   <link href="https://healer20.github.io/"/>
-  <updated>2026-07-14T08:40:49.516Z</updated>
+  <updated>2026-07-20T01:35:01.881Z</updated>
   <id>https://healer20.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Kubeasz-k8s1.35-longhorn</title>
+    <link href="https://healer20.github.io/2026/07/20/Kubeasz-k8s1.35-longhorn/"/>
+    <id>https://healer20.github.io/2026/07/20/Kubeasz-k8s1.35-longhorn/</id>
+    <published>2026-07-20T01:31:06.000Z</published>
+    <updated>2026-07-20T01:35:01.881Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Kubeasz-部署-K8s1-35-（存储：Longhorn）&quot;&gt;&lt;a href=&quot;#Kubeasz-部署-K8s1-35-（存储：Longhorn）&quot; class=&quot;headerlink&quot; title=&quot;Kubeasz 部署 K8s1.35</summary>
+        
+      
+    
+    
+    
+    
+    <category term="云原生" scheme="https://healer20.github.io/tags/%E4%BA%91%E5%8E%9F%E7%94%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>kubevirt安装</title>
